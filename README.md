@@ -12,9 +12,11 @@
 
 - 🤝 I’m looking for help with **a mentor like Sr. Web Developer.**
 
+- 👨‍💻 All of my projects are available at [https://zycarbonilla.github.io/](https://zycarbonilla.github.io/)
+
 - 💬 Ask me about **coding, design and web development.**
 
-- 📫 How to reach me **zycarabonilla@gmail.com**
+- 📫 How to reach me **zycarbonilla@gmail.com**
 
 - ⚡ Fun fact **I think I am very shy-type person, but if you talk to me, there's no going back. haha**
 
